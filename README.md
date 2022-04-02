@@ -22,3 +22,5 @@
 　　该插件不能自动同步，更新时是要手动点击upload
   
   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FYG511
+
+C:\Users\用户\AppData\Local\Google\Chrome\User Data\Default
